@@ -1,6 +1,7 @@
 {
     "name": "unite-cms/unite-pack",
     "description": "A pack for unite cms",
+    "license": "MIT",
     "type": "symfony-pack",
     "require": {
         "unite-cms/core-bundle": "dev-master",
@@ -8,7 +9,6 @@
         "unite-cms/admin-bundle": "dev-master",
         "unite-cms/media-bundle": "dev-master"
     },
-    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Franz Wilding",
