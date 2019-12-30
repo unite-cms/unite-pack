@@ -4,10 +4,10 @@
     "license": "MIT",
     "type": "symfony-pack",
     "require": {
-        "unite-cms/core-bundle": "dev-master",
-        "unite-cms/doctrine-orm-bundle": "dev-master",
-        "unite-cms/admin-bundle": "dev-master",
-        "unite-cms/media-bundle": "dev-master"
+        "unite-cms/core-bundle": "^0.10",
+        "unite-cms/doctrine-orm-bundle": "^0.10",
+        "unite-cms/admin-bundle": "^0.10",
+        "unite-cms/media-bundle": "^0.10"
     },
     "authors": [
         {
